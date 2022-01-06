@@ -1,7 +1,8 @@
 ## Welcome to My page
 
-testing the landing page
+_testing_ the **landing** page
 
-**Bold** and _Italic_ and `Code` text
+`println("Hello Github")`
 
-[Link](https://github.com/fighting41love/funNLP) and ![Image](src)
+### rec nlp repo
+[nlp repo](https://github.com/fighting41love/funNLP)
